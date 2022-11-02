@@ -8,11 +8,11 @@
 ![GitHub Open Issues](https://img.shields.io/github/issues/triggerjs/trigger)
 ![License](https://img.shields.io/github/license/triggerjs/trigger)
 
-*毋须编写 JavaScript，建立页面滚动动画。*
+*无需编写 JavaScript，建立页面滚动动画。*
 
 有时候我们想因应页面滚动的位置建立动画，或更新 HTML 元素的 CSS 样式。就像视频播放一样，动画在页面向上滚动时前进，向下滚动时后退。
 
-使用 Trigger JS，在页面滚动时即可透过 CSS 变量取得制作动画所需的值，而毋须编写任何 JavaScript 代码，相关设置则可通过 HTML 属性实现。[点击这里](https://codepen.io/collection/eJmoMr)查看范例。
+使用 Trigger JS，在页面滚动时即可透过 CSS 变量取得制作动画所需的值，而无需编写任何 JavaScript 代码，相关设置则可通过 HTML 属性实现。[点击这里](https://codepen.io/collection/eJmoMr)查看范例。
 
 阅读本文档的其他语言版本：[English](README.md)、[繁體中文](README.zh-Hant.md)、[简体中文](README.zh-Hans.md)。
 
